@@ -1,5 +1,5 @@
 Colors:
-    Background: #202225
+    Background: #d0d0ff
     Text: #EEEEEE
     Text-note: #888888
     Foreground: #2F3136
